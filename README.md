@@ -1,5 +1,5 @@
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?weight=600&pause=1000&color=86DD15&center=true&vCenter=true&width=435&lines=Hello%2C+I+am+Gabriel!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?weight=600&pause=1000&color=86DD15&center=true&vCenter=true&width=435&lines=Hello%2C+World!" alt="Typing SVG" /></a>
 </h1>
 
 <div align="center">
@@ -31,6 +31,10 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%23007ACC.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+<h1 align="left">About Me</h1>
+
+Me chamo Gabriel, atualmente moro em Uberlândia - MG, tenho 23 anos e sou Desenvolvedor Full-Stack. Já construi projetos em front-end, back-end e full-stack, atualmente estou me aperfeiçoando em Python, clean code e design patterns. Nos meus próximos passos pretendo aprender React-Native, para tirar algumas ideias do papel. Se você deseja falar comigo, entre em contato pelo Whatsapp logo abaixo.
+
 <h1 align="left">Contact Me</h1>
 
 <a href="https://www.linkedin.com/in/gabrielgr/" target="_blank">
@@ -39,6 +43,10 @@
 
 <a href="mailto:gabrielbj99@gmail.com" target="_blank">
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="62" height="50" alt="gmail logo"/>
+</a>
+
+<a href="https://wa.me/5534991651639" target="_blank">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="62" height="50" alt="whatsapp logo"/>
 </a>
 
 ![Snake animation](https://github.com/gabrielgr99/gabrielgr99/blob/output/github-contribution-grid-snake.svg)
