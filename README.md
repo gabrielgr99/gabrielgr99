@@ -30,9 +30,9 @@
 ![Pytest](https://img.shields.io/badge/pytest-%23323330.svg?style=for-the-badge&logo=pytest&logoColor=%23F7DF1E)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%23007ACC.svg?style=for-the-badge&logo=docker&logoColor=white)
-[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff)]
-[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)]
-[![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)]
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff)
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
 
 <h1 align="left">About Me</h1>
 
