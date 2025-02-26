@@ -33,7 +33,7 @@
 
 <h1 align="left">About Me</h1>
 
-Me chamo Gabriel, atualmente moro em Uberlândia - MG, tenho 23 anos e sou Desenvolvedor Full-Stack. Já construi projetos em front-end, back-end e full-stack, atualmente estou me aperfeiçoando em Python, clean code e design patterns. Nos meus próximos passos pretendo aprender React-Native, para tirar algumas ideias do papel. Se você deseja falar comigo, entre em contato pelo Whatsapp logo abaixo.
+Me chamo Gabriel, sou Desenvolvedor Front-End. Atualmente trabalho com React, NextJS, HTML, CSS, Javascript, Tailwind, Style in module, entre outras ferramentas, além de usar Scrum e Kanban como metodologias ágeis. Se você deseja falar comigo, entre em contato pelo Whatsapp logo abaixo.
 
 <h1 align="left">Contact Me</h1>
 
